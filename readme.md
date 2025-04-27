@@ -18,13 +18,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center"><b>Backend</b></p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,kafka,rabbitmq,elasticsearch,selenium" />
+</p>
+<br>
 <p align="center"><b>Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /><br>
 </p>
-
-<p align="center"><b>Cloud</b></p>
+<br>
+<p align="center"><b>DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,github,gitlab,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,github,gitlab,bitbucket,git" />
 </p>
